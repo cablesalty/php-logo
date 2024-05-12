@@ -1,4 +1,4 @@
-#php-logo
+<h1 align="center">php-logo</h1>
 
 ### What ?
 
